@@ -37,6 +37,21 @@ while True:
       encouragement_list.append("talk to your friends")
       counter += 1  
       
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     if each_word == "stressed":
+      feelings_list.append("stressed")
+      encouragement_list.append("talk to your friends.Maybe you will feel better.Remeber,take deep breathes to calm yourself down.")
+      counter += 1   
+    
     if counter == 0:
 
       output = "Sorry I don't really understand. Please use different words?"
